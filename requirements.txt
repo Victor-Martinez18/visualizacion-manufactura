@@ -1,0 +1,7 @@
+# Versiones con las que se generaron los resultados del Avance 3 (octubre 2026)
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+scipy>=1.11
+plotly>=5.20
+jupyter
